@@ -1,7 +1,7 @@
 {
   "name": "totem-studio",
-  "displayName": "Totem Studio AI",
-  "version": "0.4.1",
+  "displayName": "Totem Studio",
+  "version": "0.4.2",
   "description": "Work with your authorized Totem Studio teams, CRM, calls, messages, calendars, and assistants in Claude.",
   "author": {
     "name": "Totem Studio",

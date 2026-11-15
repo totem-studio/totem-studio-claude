@@ -1,6 +1,6 @@
-# Totem Studio AI for Claude
+# Totem Studio for Claude
 
-Totem Studio AI connects Claude to your authorized Totem Studio teams, CRM,
+Totem Studio connects Claude to your authorized teams, CRM,
 calls, conversations, calendars, and assistants. Ask for a daily overview,
 investigate customer context, or work on an assistant using the permissions and
 execution settings of your Totem account.
