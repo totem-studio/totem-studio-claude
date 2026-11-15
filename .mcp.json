@@ -1,0 +1,8 @@
+{
+  "mcpServers": {
+    "totem-studio": {
+      "type": "http",
+      "url": "https://mcp.totemstudio.ai/mcp"
+    }
+  }
+}
