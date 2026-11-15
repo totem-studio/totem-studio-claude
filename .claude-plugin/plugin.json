@@ -8,10 +8,11 @@
     "url": "https://totemstudio.ai"
   },
   "homepage": "https://totemstudio.ai",
+  "repository": "https://github.com/totem-studio/totem-studio-claude",
   "license": "MIT",
   "keywords": ["crm", "calendar", "calls", "assistants", "business"],
   "icon": "./assets/totem-icon.svg",
-  "documentationUrl": "https://totemstudio.ai/help",
+  "documentationUrl": "https://github.com/totem-studio/totem-studio-claude",
   "supportUrl": "https://totemstudio.ai/contact",
   "privacyPolicyUrl": "https://totemstudio.ai/legal/privacy-policy",
   "termsOfServiceUrl": "https://totemstudio.ai/legal/terms-of-service"
